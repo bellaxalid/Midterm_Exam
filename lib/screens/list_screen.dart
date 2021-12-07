@@ -3,9 +3,9 @@
 //? You can refactor the code if needed
 
 import 'package:flutter/material.dart';
-
-// import 'note_screen.dart';
-// import '../models/note.dart';
+import 'note_screen.dart';
+import 'note_screen.dart';
+import '../models/note.dart';
 
 class ListScreen extends StatefulWidget {
   @override
